@@ -27,3 +27,6 @@ Python:
 Other:
 - [chromedriver](http://chromedriver.chromium.org/getting-started)
 - [google-chrome](https://www.google.com/chrome/)
+
+Docs:
+- [docs](http://ecetestdoc.com.s3-website-us-west-2.amazonaws.com/)
